@@ -1,0 +1,10 @@
+{
+  "hosted-zone:account=388414971737:domainName=mendoza-code.com:region=us-east-1": {
+    "Id": "/hostedzone/Z012275318RY9D12HI3DG",
+    "Name": "mendoza-code.com."
+  },
+  "hosted-zone:account=388414971737:domainName=cocinamendoza.com:region=us-east-1": {
+    "Id": "/hostedzone/Z0871865R64HSJLS952X",
+    "Name": "cocinamendoza.com."
+  }
+}
